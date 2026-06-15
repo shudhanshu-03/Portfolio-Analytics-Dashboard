@@ -83,7 +83,7 @@ src/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/portfolio-analytics-dashboard/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/shudhanshu-03/portfolio-analytics-dashboard/issues).
 
 ## 📄 License
 
