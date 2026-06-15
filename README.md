@@ -2,7 +2,10 @@
 
 A modern, high-performance financial portfolio analytics dashboard built with React 19, Vite, and Tailwind CSS. This project serves as a robust frontend showcase featuring simulated real-time WebSocket data, interactive financial charts, and a highly customizable, drag-and-drop widget layout system.
 
-![Dashboard Preview](./preview.png) *(You can add a screenshot here before pushing)*
+![Dashboard Preview]
+<img width="1899" height="933" alt="image" src="https://github.com/user-attachments/assets/d5205458-3b0b-41fc-ad8b-8dbbdceed159" />
+<img width="1667" height="837" alt="image" src="https://github.com/user-attachments/assets/1d45059b-f202-42cb-b272-0afc87432c94" />
+
 
 ## ✨ Key Features
 
@@ -46,7 +49,7 @@ Make sure you have [Node.js](https://nodejs.org/) (v18 or higher) and `npm` inst
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:5173`.
+4. Open your browser and navigate to `localhost`.
 
 ### Building for Production
 
